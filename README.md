@@ -1,3 +1,6 @@
+![Suraia Akter Banner](./banner.git1.png)
+
+
 # 💫 About Me:
 🎯 I’m currently working on<br>A car rental web app with full-stack features — user authentication, booking system, admin dashboard, and data visualization using Recharts.<br><br>🤝 I’m looking to collaborate on<br>Modern React-based projects (especially those involving MongoDB, Firebase, or REST APIs) — and always up for UI improvements or auth flow enhancements.<br><br>💛 I’m looking for help with<br>Optimizing protected routes, managing user sessions with JWT/Firebase, and making large-scale components scalable and reusable.<br><br>🌿 I’m currently learning<br>React.js, MongoDB, JWT, Firebase Auth, Express.js, and how to architect scalable backend APIs with authentication and database security best practices.<br><br>💬 Ask me about<br>React Router (Data API mode), localStorage management, booking flow logic, protected routes, or how I debug API fetch issues like a pro 😄<br><br>⚡ Fun fact<br>I love turning raw JSON into dynamic UI — and I've made booking UIs that show a toast when something is already booked. Efficiency + UX = 💯
 
