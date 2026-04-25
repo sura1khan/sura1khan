@@ -1,4 +1,4 @@
-![Suraia Akter Banner](./banner.git1.png)
+
 
 
 # 💫 About Me:
